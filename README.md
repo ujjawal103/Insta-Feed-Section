@@ -2,6 +2,8 @@
 
 This project is a basic model of Instagram’s feed and story section, created with HTML, CSS, and JavaScript. The feed includes a single reel video that can be liked by double-tapping and muted/unmuted by single-tapping. It also includes a story section where users can view available stories.
 
+for Demo Click Here :- https://ujjawal103.github.io/Insta-Feed-Section/
+
 ## Features
 
 - **Reel Video Interaction**:
